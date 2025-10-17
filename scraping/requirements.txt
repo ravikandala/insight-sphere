@@ -1,0 +1,13 @@
+crawl4ai
+boto3
+newspaper3k
+dotenv
+fastapi
+uvicorn
+beautifulsoup4
+requests
+playwright
+lxml_html_clean
+lxml[html_clean]
+strands-agents
+strands-agents-tools

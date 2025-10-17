@@ -1,0 +1,6 @@
+boto3
+strands-agents
+strands-agents-tools
+dotenv
+requests
+streamlit
